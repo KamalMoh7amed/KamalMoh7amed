@@ -44,7 +44,7 @@ I build robust, scalable applications using modern .NET technologies — from AP
 ### 🏆 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalMoh7amed&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalMoh7amed&theme=radical" alt="GitHub Streak"/>
 </div>
