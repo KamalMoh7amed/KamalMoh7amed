@@ -26,17 +26,23 @@
 ###
 
 <div align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg](https://icons8.com/icon/1BC75jFEBED6/net-framework)" height="60" alt="Entity Framework" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" height="60" alt="LINQ" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="60" alt="SQL Server" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tsql" height="60" alt="T-SQL" />
+   <img src="https://img.shields.io/badge/Entity%20Framework-6f42c1?style=for-the-badge&logo=.net&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25" />
 </div>
 
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" width="60" alt="Entity Framework" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" width="60" alt="LINQ" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="60" alt="SQL Server" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tsql" width="60" alt="T-SQL" />
+</div>
 ###
 
 <div align="center">
