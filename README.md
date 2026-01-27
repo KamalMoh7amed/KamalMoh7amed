@@ -1,52 +1,63 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+# 👋 Hey! What's Up?
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/html5/html5-original.svg" width="48" height="48" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/css3/css3-original.svg" width="48" height="48" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" width="48" height="48" alt="LINQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" width="48" height="48" alt="EF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
 </div>
 
-###
+---
+
+### 📌 About Me
+**كمال محمد صابر**  
+Backend & Full-Stack Developer | .NET Specialist | Freelancer
+
+I build robust, scalable applications using modern .NET technologies — from APIs and microservices to clean UIs with HTML/CSS/JS.
+
+---
+
+### 🔗 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/kamal-mohamed-saber/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.gg/TUQmBZUF">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://khamsat.com/user/kamalfreelancer69">
+    <img src="https://img.shields.io/badge/خمسات-FF6B35?style=for-the-badge&logo=khamsat&logoColor=white" alt="Khamsat"/>
+  </a>
+  <a href="https://mostaql.com/u/Kamal_ohamed">
+    <img src="https://img.shields.io/badge/مستقل-0077B5?style=for-the-badge&logo=mostaql&logoColor=white" alt="Mostaql"/>
+  </a>
 </div>
 
-###
+---
+
+### 🏆 GitHub Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalMoh7amed&theme=radical" alt="GitHub Streak"/>
 </div>
 
-###
+> ⚠️ **Failed to retrieve contributions. This is likely a GitHub API issue.**  
+> *(Just like in the screenshot — don’t worry, I’m still coding! 😄)*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🎮 Fun Fact
+I love retro games — Pac-Man ghosts are my *real* code reviewers. 🟡👻
+
+---
+
+✨ *Let’s build something awesome together!*  
+📬 Feel free to reach out — I'm always open to new opportunities & collaborations.
