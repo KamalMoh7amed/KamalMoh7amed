@@ -15,7 +15,7 @@
 ---
 
 ### 📌 About Me
-**كمال محمد صابر**  
+
 Backend & Full-Stack Developer | .NET Specialist | Freelancer
 
 I build robust, scalable applications using modern .NET technologies — from APIs and microservices to clean UIs with HTML/CSS/JS.
@@ -41,23 +41,10 @@ I build robust, scalable applications using modern .NET technologies — from AP
 
 ---
 
-### 🏆 GitHub Contributions
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamalmohamed_Br&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalMoh7amed&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalmohamed_Br&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalMoh7amed&theme=radical" alt="GitHub Streak"/>
 </div>
 
-> ⚠️ **Failed to retrieve contributions. This is likely a GitHub API issue.**  
-> *(Just like in the screenshot — don’t worry, I’m still coding! 😄)*
 
----
-
-### 🎮 Fun Fact
-I love retro games — Pac-Man ghosts are my *real* code reviewers. 🟡👻
-
----
-
-✨ *Let’s build something awesome together!*  
-📬 Feel free to reach out — I'm always open to new opportunities & collaborations.
