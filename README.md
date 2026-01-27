@@ -1,50 +1,68 @@
-# 👋 Hey! What's Up?
+# Hey there, I'm كمال محمد صابر  
+**SWE || Back-end .NET Developer**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/html5/html5-original.svg" width="48" height="48" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/css3/css3-original.svg" width="48" height="48" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" width="48" height="48" alt="LINQ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" width="48" height="48" alt="EF"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+---
+
+### 📄 About Me  
+Backend & Full-Stack Developer passionate about building scalable, maintainable systems using modern .NET stack.
+
+---
+
+### 🌐 Socials:  
+<a href="https://www.linkedin.com/in/kamal-mohamed-saber/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kamal@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+> ⚠️ *Note:* Discord invite link (`discord.gg/TUQmBZUF`) requires JavaScript to load — it's a client-side app link, not a static badge. You can add it as plain text if preferred:
+> ```
+> Discord: https://discord.gg/TUQmBZUF
+> ```
+
+---
+
+### 💻 Tech Stack:  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/csharp/csharp-original.svg" height="32" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/html5/html5-original.svg" height="32" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/css3/css3-original.svg" height="32" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" height="32" alt="LINQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" height="32" alt="EF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/git/git-original.svg" height="32" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/postman/postman-original.svg" height="32" alt="Postman"/>
 </div>
 
 ---
 
-### 📌 About Me
-
-Backend & Full-Stack Developer | .NET Specialist | Freelancer
-
-I build robust, scalable applications using modern .NET technologies — from APIs and microservices to clean UIs with HTML/CSS/JS.
-
----
-
-### 🔗 Connect With Me
-
+### 📊 GitHub Stats:  
 <div align="center">
-  <a href="https://www.linkedin.com/in/kamal-mohamed-saber/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.gg/TUQmBZUF">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://khamsat.com/user/kamalfreelancer69">
-    <img src="https://img.shields.io/badge/خمسات-FF6B35?style=for-the-badge&logo=khamsat&logoColor=white" alt="Khamsat"/>
-  </a>
-  <a href="https://mostaql.com/u/Kamal_ohamed">
-    <img src="https://img.shields.io/badge/مستقل-0077B5?style=for-the-badge&logo=mostaql&logoColor=white" alt="Mostaql"/>
-  </a>
+  <details open>
+    <summary><b>كمال محمد صابر's GitHub Stats</b></summary>
+
+    | Statistic                 | Value |
+    |---------------------------|-------|
+    | Total Stars Earned        | 0     |
+    | Total Commits (last year) | 4     |
+    | Total PRs                 | 0     |
+    | Total Issues              | 0     |
+    | Contributed to (last year)| 0     |
+
+    <div style="text-align:center; margin-top:12px;">
+      <svg width="80" height="80" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="40" fill="none" stroke="#444" stroke-width="8"/>
+        <circle cx="50" cy="50" r="40" fill="none" stroke="#ccc" stroke-width="8" stroke-dasharray="251.2" stroke-dashoffset="251.2" transform="rotate(-90 50 50)">
+          <animate attributeName="stroke-dashoffset" from="251.2" to="0" dur="1.5s" fill="freeze"/>
+        </circle>
+        <text x="50" y="50" text-anchor="middle" dy=".3em" font-size="24" fill="#aaa">C</text>
+      </svg>
+    </div>
+  </details>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalMoh7amed&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalMoh7amed&theme=radical" alt="GitHub Streak"/>
-</div>
-
-
+> ✨ *I code, I debug, I coffee — in that order.*
