@@ -1,68 +1,71 @@
-# Hey there, I'm كمال محمد صابر  
-**SWE || Back-end .NET Developer**
+<h1 align="center">Hey 👋 What's Up?</h1>
 
----
+###
 
-### 📄 About Me  
-Backend & Full-Stack Developer passionate about building scalable, maintainable systems using modern .NET stack.
+<h3 align="center">أنا كمال محمد صابر 👨‍💻</h3>
+<p align="center">.NET Backend Developer | C# Specialist | Backend Enthusiast</p>
 
----
+###
 
-### 🌐 Socials:  
-<a href="https://www.linkedin.com/in/kamal-mohamed-saber/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:kamal@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-> ⚠️ *Note:* Discord invite link (`discord.gg/TUQmBZUF`) requires JavaScript to load — it's a client-side app link, not a static badge. You can add it as plain text if preferred:
-> ```
-> Discord: https://discord.gg/TUQmBZUF
-> ```
-
----
-
-### 💻 Tech Stack:  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/csharp/csharp-original.svg" height="32" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/html5/html5-original.svg" height="32" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/css3/css3-original.svg" height="32" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" height="32" alt="LINQ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" height="32" alt="EF"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/git/git-original.svg" height="32" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/postman/postman-original.svg" height="32" alt="Postman"/>
-</div>
-
----
-
-### 📊 GitHub Stats:  
 <div align="center">
-  <details open>
-    <summary><b>كمال محمد صابر's GitHub Stats</b></summary>
-
-    | Statistic                 | Value |
-    |---------------------------|-------|
-    | Total Stars Earned        | 0     |
-    | Total Commits (last year) | 4     |
-    | Total PRs                 | 0     |
-    | Total Issues              | 0     |
-    | Contributed to (last year)| 0     |
-
-    <div style="text-align:center; margin-top:12px;">
-      <svg width="80" height="80" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="50" cy="50" r="40" fill="none" stroke="#444" stroke-width="8"/>
-        <circle cx="50" cy="50" r="40" fill="none" stroke="#ccc" stroke-width="8" stroke-dasharray="251.2" stroke-dashoffset="251.2" transform="rotate(-90 50 50)">
-          <animate attributeName="stroke-dashoffset" from="251.2" to="0" dur="1.5s" fill="freeze"/>
-        </circle>
-        <text x="50" y="50" text-anchor="middle" dy=".3em" font-size="24" fill="#aaa">C</text>
-      </svg>
-    </div>
-  </details>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="60" alt="sql server logo" />
 </div>
 
----
+###
 
-> ✨ *I code, I debug, I coffee — in that order.*
+<div align="center">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-6f42c1?style=for-the-badge&logo=.net&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamal-mohamed-saber/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://discord.gg/TUQmBZUF">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:Kamkaamm5@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://khamsat.com/user/kamalfreelancer69">
+    <img src="https://img.shields.io/static/v1?message=Khamsat&logo=freelancer&label=&color=F7931E&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://mostaql.com/u/Kamal_ohamed">
+    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=about-dot-me&label=&color=1abc9c&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&column=7&margin-w=8&margin-h=8" height="150" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/KamalMoh7amed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/KamalMoh7amed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/KamalMoh7amed/output/pacman-contribution-graph.svg">
+</picture>
+
+###
