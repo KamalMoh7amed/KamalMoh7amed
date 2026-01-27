@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">أنا كمال محمد صابر 👨‍💻</h3>
+<h3 align="center">Iam Kamal Mohammed 👨‍💻</h3>
 <p align="center">.NET Backend Developer | C# Specialist | Backend Enthusiast</p>
 
 ###
@@ -31,18 +31,6 @@
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25" />
 </div>
 
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" width="60" alt="Entity Framework" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" width="60" alt="LINQ" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" width="60" alt="SQL Server" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tsql" width="60" alt="T-SQL" />
-</div>
 ###
 
 <div align="center">
