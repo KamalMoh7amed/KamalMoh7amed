@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg" height="60" alt="Entity Framework" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/entityframework/entityframework-original.svg](https://icons8.com/icon/1BC75jFEBED6/net-framework)" height="60" alt="Entity Framework" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.git/icons/linq/linq-original.svg" height="60" alt="LINQ" />
   <img width="12" />
